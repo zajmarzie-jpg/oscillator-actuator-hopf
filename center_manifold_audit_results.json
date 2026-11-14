@@ -1,0 +1,10 @@
+{
+  "g21_real": 1.4747970484824272e-17,
+  "g21_imag": -0.0017862071305759315,
+  "g32_real": 0.24354774884269953,
+  "g32_imag": 0.07088156692487477,
+  "Poincare_Lindstedt_gamma": 0.24354774884269953,
+  "absolute_difference": 0.0,
+  "linear_eigenvalue_frequency": 1.8708286933869707,
+  "amplitude_normalization": "q_x=1/2, x leading term A cos(Omega t)"
+}

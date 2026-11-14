@@ -1,0 +1,19 @@
+{
+  "Lambda_crit_squared": "290871/57856",
+  "Lambda_crit": 2.2422085783058447,
+  "h2": "-8/8379",
+  "h4": "1574439536/508233113199",
+  "m4": "132620389936/72604730457",
+  "m4_numeric": 1.8266081163202466,
+  "gamma": "265240779872/1089070956855",
+  "gamma_numeric": 0.24354774884269953,
+  "fold_Lambda": 2.3,
+  "fold_mu": -0.00011495476509582048,
+  "fold_amplitude": 0.09058950531788634,
+  "fold_floquet_modulus": 1.000000000000112,
+  "fold_residual": 8.304329446318093e-13,
+  "count": 35,
+  "max_shoot_residual": 2.627412176714472e-13,
+  "smallest_critical_amplitude": 0.0766568847358782,
+  "critical_smallest_amplitude_ratio": 1.8178851546985462
+}
